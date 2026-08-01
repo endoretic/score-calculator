@@ -11,7 +11,11 @@ A static score-planning tool for Project SEKAI World Link runs. It helps compare
 - Optional hard preference: turn "may include" groups into an "at least one" requirement.
 - Bilingual UI, mobile layout support, and tap-friendly tooltips.
 
-## Usage
+## Website
+
+https://endoretic.cc/score-calculator/
+
+## Run locally
 
 Open `index.html` directly in a browser, or preview the project with any static file server:
 
